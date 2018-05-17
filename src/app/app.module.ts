@@ -3,9 +3,14 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 
+//Pipes
+import { HelloPipe } from './pipes/hello.pipe'
+
+
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    HelloPipe
   ],
   imports: [
     BrowserModule

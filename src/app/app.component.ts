@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = ' Angular 5 Boiler Plate!!';
+  name = 'Super Man';
 }

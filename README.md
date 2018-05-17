@@ -4,7 +4,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Working
 
-This project contains multiple branches featuring various components of angular choose as per requirements.
+This project contains multiple *branches* featuring various components of angular choose as per requirements.
+
+### Branches
+  master - contains basic Angular 5 project with BootStrap, Font-Awesome and Jquery.
 
 ## Development server
 

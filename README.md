@@ -8,6 +8,7 @@ This project contains multiple *branches* featuring various components of angula
 
 ### Branches
   master - contains basic Angular 5 project with BootStrap, Font-Awesome and Jquery.
+
   pipes - contains base and a pipe.
 
 ## Development server

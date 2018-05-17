@@ -1,6 +1,10 @@
-# Contentvisualiser
+# Boiler Plate Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
+
+## Working
+
+This project contains multiple branches featuring various components of angular choose as per requirements.
 
 ## Development server
 

@@ -9,8 +9,7 @@ import { HelloPipe } from './pipes/hello.pipe'
 
 @NgModule({
   declarations: [
-    AppComponent,
-    HelloPipe
+    AppComponent, HelloPipe
   ],
   imports: [
     BrowserModule
